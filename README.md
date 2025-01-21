@@ -65,10 +65,10 @@ Network Address      Usable Host Range                Broadcast Address
 192.168.1.0          192.168.1.1 - 192.168.1.254      192.168.1.255
 ```
 
-##License
+## License
 
 This project is licensed under the Mozilla Public License 2.0.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
