@@ -13,12 +13,12 @@ This Go program calculates subnet details from CIDR notation and generates IP sc
 1. Clone the repository:
     ```sh
     git clone https://github.com/RogelioMtz/CalcIPHostScheme.git
-    cd ip-subnet-calculator
+    cd CalcIPHostScheme
     ```
 
 2. Build the program:
     ```sh
-    go build -o ip-subnet-calculator calcHostSchemeIP.go
+    go build -o CalcIPHostScheme calcIPHostScheme.go
     ```
 
 3. Run the program:
