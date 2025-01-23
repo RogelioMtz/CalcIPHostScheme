@@ -23,7 +23,7 @@ This Go program calculates subnet details from CIDR notation and generates IP sc
 
 3. Run the program:
     ```sh
-    ./ip-subnet-calculator
+    ./CalcIPHostScheme
     ```
 
 ## Menu Options
